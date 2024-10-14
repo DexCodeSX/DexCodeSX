@@ -1,4 +1,4 @@
-![Dis](https://discord.com/users/862955288613486604)
+[![Discord Presence](https://lanyard.cnrad.dev/api/862955288613486604)](https://discord.com/users/862955288613486604)
  # Welcome to DexCodeSX's Profile!
 
 Hi, I'm **Bisam**. I created **Roblox Exploits** with another game.
