@@ -1,6 +1,7 @@
 <a href="https://discord.com/users/862955288613486604" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/862955288613486604" alt="Discord Presence" width="100%" height="450">
+  <img src="https://lanyard.cnrad.dev/api/862955288613486604" alt="Discord Presence" width="100%">
 </a>
+
 
  # Welcome to DexCodeSX's Profile!
 
