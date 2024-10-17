@@ -18,7 +18,7 @@ Hi, I'm **Bisam**, the owner and developer of **Sensation X**, a powerful Roblox
 - Lua
 - HTML/CSS
 - JavaScript
-- Discord.js
+- Discord Bot
 
 ![Logo](https://u.cubeupload.com/SystemCoder/Picsart2410141457257.png)
 
