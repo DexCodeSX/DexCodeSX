@@ -9,7 +9,7 @@ Hi, I'm **Bisam**, the owner and developer of **Sensation X**, a powerful Roblox
 
 ## 🚀 Skills
 
-- **Roblox Exploiting**
+- **Roblox Scripting**
 - **HTML Projects**
 - **React Project**
 - **Discord Bots**
