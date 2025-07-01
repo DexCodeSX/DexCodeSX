@@ -1,2 +1,1 @@
-![Logo](https://drive.google.com/file/d/1TnwSOZW-StdNlYFLhVGkLjnu18rVKD4J/view?usp=sharing)
-
+<img src="https://i.ibb.co/1tnmPZW7/Picsart-25-07-01-20-00-38-175.jpg" alt="Picsart-25-07-01-20-00-38-175" width="1377" height="720" data-is360="0" data-load="full" class="" style="width: 1350px; height: 705.882px;">
