@@ -1,0 +1,25 @@
+# .github/workflows/avatar.yml
+name: sync avatar
+on:
+  schedule: [{ cron: "0 */6 * * *" }]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          hash=$(curl -s https://api.lanyard.rest/v1/users/862955288613486604 | jq -r '.data.discord_user.avatar')
+          id=862955288613486604
+          ext="png"
+          [[ $hash == a_* ]] && ext="gif"
+          curl -sL "https://cdn.discordapp.com/avatars/$id/$hash.$ext?size=256" -o avatar.$ext
+          # clean up old format if extension flipped
+          [[ $ext == "png" ]] && rm -f avatar.gif || rm -f avatar.png
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync avatar"
+          file_pattern: "avatar.*"
