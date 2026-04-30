@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/avatars/862955288613486604/0a88f73299e37b9de11176a4d8933005.png?size=128" width="96" style="border-radius:50%" alt="avatar"/>
+<img src="https://api.lanyard.rest/862955288613486604.png?size=256" width="96" style="border-radius:50%" alt="avatar"/>
 
 <br/>
 
