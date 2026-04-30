@@ -4,15 +4,19 @@
 
 <br/>
 
-<img src="https://cdn.discordapp.com/avatars/862955288613486604/0a88f73299e37b9de11176a4d8933005.png?size=128" width="90" alt="avatar"/>
+<img src="https://cdn.discordapp.com/avatars/862955288613486604/0a88f73299e37b9de11176a4d8933005.png?size=128" width="90" style="border-radius:50%" alt="avatar"/>
 
 <h1>Nyx</h1>
-<code>@bisam0000</code>
+
+<a href="https://github.com/DexCodeSX">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=C8A96E&center=true&vCenter=true&width=440&lines=%40bisam0000;building+in+silence;ship+things+that+work." alt="typing"/>
+</a>
 
 <br/><br/>
 
 [![Discord Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F862955288613486604&query=%24.data.discord_status&label=discord&style=flat-square&color=111111&labelColor=111111&logo=discord&logoColor=white)](https://discord.com/users/862955288613486604)
 [![GitHub](https://img.shields.io/badge/github-DexCodeSX-111111?style=flat-square&logo=github&logoColor=white&labelColor=111111)](https://github.com/DexCodeSX)
+[![Profile Views](https://komarev.com/ghpvc/?username=DexCodeSX&style=flat-square&color=111111&label=views)](https://github.com/DexCodeSX)
 
 </div>
 
@@ -44,14 +48,9 @@ status:   building in silence
 
 <div align="center">
 
-![Lua](https://img.shields.io/badge/Luau-111111?style=flat-square&logo=lua&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-111111?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=lua,nodejs,ts,python,nextjs,docker,linux,bash,git,vscode&theme=dark&perline=10" alt="stack"/>
+</a>
 
 </div>
 
@@ -61,12 +60,7 @@ status:   building in silence
 
 <div align="center">
 
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111111?style=flat-square)
-![Roblox Exploit Dev](https://img.shields.io/badge/Roblox_Exploit_Dev-111111?style=flat-square)
-![AI Tooling](https://img.shields.io/badge/AI_Tooling-111111?style=flat-square)
-![MCP Stack](https://img.shields.io/badge/MCP_Stack-111111?style=flat-square)
-![VPS Infra](https://img.shields.io/badge/VPS_Infra-111111?style=flat-square)
-![Security](https://img.shields.io/badge/Security-111111?style=flat-square)
+`Reverse Engineering`  ·  `Roblox Exploit Dev`  ·  `AI Tooling`  ·  `MCP Stack`  ·  `VPS Infra`  ·  `Security`
 
 </div>
 
@@ -76,9 +70,13 @@ status:   building in silence
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-gold-nine-48.vercel.app/api?username=DexCodeSX&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c8a96e&text_color=888880&icon_color=c8a96e&count_private=true" alt="stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DexCodeSX&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c8a96e&text_color=888880&icon_color=c8a96e&count_private=true&include_all_commits=true" alt="stats"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats-gold-nine-48.vercel.app/api/top-langs/?username=DexCodeSX&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c8a96e&text_color=888880&langs_count=6" alt="langs"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexCodeSX&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c8a96e&text_color=888880&langs_count=6" alt="langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DexCodeSX&hide_border=true&background=0d0d0d&stroke=0d0d0d&ring=c8a96e&fire=c8a96e&currStreakLabel=c8a96e&sideLabels=888880&currStreakNum=c8a96e&dates=888880&sideNums=c8a96e" height="160" alt="streak"/>
 
 </div>
 
